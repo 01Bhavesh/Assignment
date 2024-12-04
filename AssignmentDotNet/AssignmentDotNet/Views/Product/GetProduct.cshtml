@@ -1,0 +1,53 @@
+﻿@model IEnumerable<AssignmentDotNet.Models.Product>
+
+@{
+    ViewData["Title"] = "GetProduct";
+}
+
+<h1>GetProduct</h1>
+
+<p>
+    <a asp-action="PostProduct">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.ProductId)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.ProductName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.CategoryId)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.CategoryName)
+            </th>
+
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.ProductId)
+                </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.ProductName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.CategoryId)
+            </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.CategoryName.CategoryName)
+                </td>
+            <td>
+                <a asp-action="EditProduct" asp-route-id="@item.ProductId">Edit</a> |
+                <a asp-action="DeleteProduct" asp-route-id="@item.ProductId">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
