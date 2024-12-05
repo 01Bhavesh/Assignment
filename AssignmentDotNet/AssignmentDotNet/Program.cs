@@ -1,4 +1,5 @@
 using AssignmentDotNet.Models;
+using AssignmentDotNet.Service;
 using Microsoft.EntityFrameworkCore;
 
 var builder = WebApplication.CreateBuilder(args);
@@ -7,6 +8,10 @@ var builder = WebApplication.CreateBuilder(args);
 builder.Services.AddControllersWithViews();
 
 builder.Services.AddDbContext<ProductDb>(o => o.UseSqlServer(builder.Configuration.GetConnectionString("ProductData")));
+
+builder.Services.AddScoped<ICategoryService, CategoryService>();
+
+builder.Services.AddScoped<IProductService, ProductService>();
 
 var app = builder.Build();
 

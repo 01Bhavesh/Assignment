@@ -3,40 +3,64 @@
   "WorkspaceRootPath": "D:\\dotnet\\CodingPrac\\AssignmentDotNet\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DBF54401-4E15-4B1C-A68E-0C0D63B98114}|AssignmentDotNet\\AssignmentDotNet.csproj|d:\\dotnet\\codingprac\\assignmentdotnet\\assignmentdotnet\\views\\product\\editproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{DBF54401-4E15-4B1C-A68E-0C0D63B98114}|AssignmentDotNet\\AssignmentDotNet.csproj|solutionrelative:assignmentdotnet\\views\\product\\editproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DBF54401-4E15-4B1C-A68E-0C0D63B98114}|AssignmentDotNet\\AssignmentDotNet.csproj|d:\\dotnet\\codingprac\\assignmentdotnet\\assignmentdotnet\\views\\product\\getproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{DBF54401-4E15-4B1C-A68E-0C0D63B98114}|AssignmentDotNet\\AssignmentDotNet.csproj|solutionrelative:assignmentdotnet\\views\\product\\getproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DBF54401-4E15-4B1C-A68E-0C0D63B98114}|AssignmentDotNet\\AssignmentDotNet.csproj|d:\\dotnet\\codingprac\\assignmentdotnet\\assignmentdotnet\\views\\product\\postproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{DBF54401-4E15-4B1C-A68E-0C0D63B98114}|AssignmentDotNet\\AssignmentDotNet.csproj|solutionrelative:assignmentdotnet\\views\\product\\postproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{DBF54401-4E15-4B1C-A68E-0C0D63B98114}|AssignmentDotNet\\AssignmentDotNet.csproj|d:\\dotnet\\codingprac\\assignmentdotnet\\assignmentdotnet\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DBF54401-4E15-4B1C-A68E-0C0D63B98114}|AssignmentDotNet\\AssignmentDotNet.csproj|solutionrelative:assignmentdotnet\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DBF54401-4E15-4B1C-A68E-0C0D63B98114}|AssignmentDotNet\\AssignmentDotNet.csproj|d:\\dotnet\\codingprac\\assignmentdotnet\\assignmentdotnet\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DBF54401-4E15-4B1C-A68E-0C0D63B98114}|AssignmentDotNet\\AssignmentDotNet.csproj|solutionrelative:assignmentdotnet\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DBF54401-4E15-4B1C-A68E-0C0D63B98114}|AssignmentDotNet\\AssignmentDotNet.csproj|d:\\dotnet\\codingprac\\assignmentdotnet\\assignmentdotnet\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DBF54401-4E15-4B1C-A68E-0C0D63B98114}|AssignmentDotNet\\AssignmentDotNet.csproj|solutionrelative:assignmentdotnet\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DBF54401-4E15-4B1C-A68E-0C0D63B98114}|AssignmentDotNet\\AssignmentDotNet.csproj|d:\\dotnet\\codingprac\\assignmentdotnet\\assignmentdotnet\\service\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBF54401-4E15-4B1C-A68E-0C0D63B98114}|AssignmentDotNet\\AssignmentDotNet.csproj|solutionrelative:assignmentdotnet\\service\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{DBF54401-4E15-4B1C-A68E-0C0D63B98114}|AssignmentDotNet\\AssignmentDotNet.csproj|d:\\dotnet\\codingprac\\assignmentdotnet\\assignmentdotnet\\models\\productdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DBF54401-4E15-4B1C-A68E-0C0D63B98114}|AssignmentDotNet\\AssignmentDotNet.csproj|solutionrelative:assignmentdotnet\\models\\productdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DBF54401-4E15-4B1C-A68E-0C0D63B98114}|AssignmentDotNet\\AssignmentDotNet.csproj|d:\\dotnet\\codingprac\\assignmentdotnet\\assignmentdotnet\\views\\category\\getcategory.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{DBF54401-4E15-4B1C-A68E-0C0D63B98114}|AssignmentDotNet\\AssignmentDotNet.csproj|solutionrelative:assignmentdotnet\\views\\category\\getcategory.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{DBF54401-4E15-4B1C-A68E-0C0D63B98114}|AssignmentDotNet\\AssignmentDotNet.csproj|d:\\dotnet\\codingprac\\assignmentdotnet\\assignmentdotnet\\service\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBF54401-4E15-4B1C-A68E-0C0D63B98114}|AssignmentDotNet\\AssignmentDotNet.csproj|solutionrelative:assignmentdotnet\\service\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBF54401-4E15-4B1C-A68E-0C0D63B98114}|AssignmentDotNet\\AssignmentDotNet.csproj|d:\\dotnet\\codingprac\\assignmentdotnet\\assignmentdotnet\\service\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBF54401-4E15-4B1C-A68E-0C0D63B98114}|AssignmentDotNet\\AssignmentDotNet.csproj|solutionrelative:assignmentdotnet\\service\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBF54401-4E15-4B1C-A68E-0C0D63B98114}|AssignmentDotNet\\AssignmentDotNet.csproj|d:\\dotnet\\codingprac\\assignmentdotnet\\assignmentdotnet\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBF54401-4E15-4B1C-A68E-0C0D63B98114}|AssignmentDotNet\\AssignmentDotNet.csproj|solutionrelative:assignmentdotnet\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBF54401-4E15-4B1C-A68E-0C0D63B98114}|AssignmentDotNet\\AssignmentDotNet.csproj|d:\\dotnet\\codingprac\\assignmentdotnet\\assignmentdotnet\\views\\product\\postproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DBF54401-4E15-4B1C-A68E-0C0D63B98114}|AssignmentDotNet\\AssignmentDotNet.csproj|solutionrelative:assignmentdotnet\\views\\product\\postproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{DBF54401-4E15-4B1C-A68E-0C0D63B98114}|AssignmentDotNet\\AssignmentDotNet.csproj|d:\\dotnet\\codingprac\\assignmentdotnet\\assignmentdotnet\\views\\category\\postcategory.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{DBF54401-4E15-4B1C-A68E-0C0D63B98114}|AssignmentDotNet\\AssignmentDotNet.csproj|solutionrelative:assignmentdotnet\\views\\category\\postcategory.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\dotnet\\CodingPrac\\AssignmentDotNet\\AssignmentDotNet\\Migrations\\20241205124935_connect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AssignmentDotNet\\Migrations\\20241205124935_connect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBF54401-4E15-4B1C-A68E-0C0D63B98114}|AssignmentDotNet\\AssignmentDotNet.csproj|d:\\dotnet\\codingprac\\assignmentdotnet\\assignmentdotnet\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBF54401-4E15-4B1C-A68E-0C0D63B98114}|AssignmentDotNet\\AssignmentDotNet.csproj|solutionrelative:assignmentdotnet\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBF54401-4E15-4B1C-A68E-0C0D63B98114}|AssignmentDotNet\\AssignmentDotNet.csproj|d:\\dotnet\\codingprac\\assignmentdotnet\\assignmentdotnet\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBF54401-4E15-4B1C-A68E-0C0D63B98114}|AssignmentDotNet\\AssignmentDotNet.csproj|solutionrelative:assignmentdotnet\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBF54401-4E15-4B1C-A68E-0C0D63B98114}|AssignmentDotNet\\AssignmentDotNet.csproj|d:\\dotnet\\codingprac\\assignmentdotnet\\assignmentdotnet\\service\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBF54401-4E15-4B1C-A68E-0C0D63B98114}|AssignmentDotNet\\AssignmentDotNet.csproj|solutionrelative:assignmentdotnet\\service\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBF54401-4E15-4B1C-A68E-0C0D63B98114}|AssignmentDotNet\\AssignmentDotNet.csproj|d:\\dotnet\\codingprac\\assignmentdotnet\\assignmentdotnet\\views\\category\\getcategory.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DBF54401-4E15-4B1C-A68E-0C0D63B98114}|AssignmentDotNet\\AssignmentDotNet.csproj|solutionrelative:assignmentdotnet\\views\\category\\getcategory.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBF54401-4E15-4B1C-A68E-0C0D63B98114}|AssignmentDotNet\\AssignmentDotNet.csproj|d:\\dotnet\\codingprac\\assignmentdotnet\\assignmentdotnet\\views\\product\\getproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DBF54401-4E15-4B1C-A68E-0C0D63B98114}|AssignmentDotNet\\AssignmentDotNet.csproj|solutionrelative:assignmentdotnet\\views\\product\\getproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBF54401-4E15-4B1C-A68E-0C0D63B98114}|AssignmentDotNet\\AssignmentDotNet.csproj|d:\\dotnet\\codingprac\\assignmentdotnet\\assignmentdotnet\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBF54401-4E15-4B1C-A68E-0C0D63B98114}|AssignmentDotNet\\AssignmentDotNet.csproj|solutionrelative:assignmentdotnet\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{DBF54401-4E15-4B1C-A68E-0C0D63B98114}|AssignmentDotNet\\AssignmentDotNet.csproj|d:\\dotnet\\codingprac\\assignmentdotnet\\assignmentdotnet\\views\\product\\deleteproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -49,14 +73,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{DBF54401-4E15-4B1C-A68E-0C0D63B98114}|AssignmentDotNet\\AssignmentDotNet.csproj|d:\\dotnet\\codingprac\\assignmentdotnet\\assignmentdotnet\\views\\category\\deletecategory.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{DBF54401-4E15-4B1C-A68E-0C0D63B98114}|AssignmentDotNet\\AssignmentDotNet.csproj|solutionrelative:assignmentdotnet\\views\\category\\deletecategory.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DBF54401-4E15-4B1C-A68E-0C0D63B98114}|AssignmentDotNet\\AssignmentDotNet.csproj|d:\\dotnet\\codingprac\\assignmentdotnet\\assignmentdotnet\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DBF54401-4E15-4B1C-A68E-0C0D63B98114}|AssignmentDotNet\\AssignmentDotNet.csproj|solutionrelative:assignmentdotnet\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DBF54401-4E15-4B1C-A68E-0C0D63B98114}|AssignmentDotNet\\AssignmentDotNet.csproj|d:\\dotnet\\codingprac\\assignmentdotnet\\assignmentdotnet\\migrations\\20241204093158_addcategorytoproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DBF54401-4E15-4B1C-A68E-0C0D63B98114}|AssignmentDotNet\\AssignmentDotNet.csproj|solutionrelative:assignmentdotnet\\migrations\\20241204093158_addcategorytoproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -66,31 +82,20 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "20241204093158_AddCategoryToProduct.cs",
-              "DocumentMoniker": "D:\\dotnet\\CodingPrac\\AssignmentDotNet\\AssignmentDotNet\\Migrations\\20241204093158_AddCategoryToProduct.cs",
-              "RelativeDocumentMoniker": "AssignmentDotNet\\Migrations\\20241204093158_AddCategoryToProduct.cs",
-              "ToolTip": "D:\\dotnet\\CodingPrac\\AssignmentDotNet\\AssignmentDotNet\\Migrations\\20241204093158_AddCategoryToProduct.cs",
-              "RelativeToolTip": "AssignmentDotNet\\Migrations\\20241204093158_AddCategoryToProduct.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "ProductDb.cs",
+              "DocumentMoniker": "D:\\dotnet\\CodingPrac\\AssignmentDotNet\\AssignmentDotNet\\Models\\ProductDb.cs",
+              "RelativeDocumentMoniker": "AssignmentDotNet\\Models\\ProductDb.cs",
+              "ToolTip": "D:\\dotnet\\CodingPrac\\AssignmentDotNet\\AssignmentDotNet\\Models\\ProductDb.cs",
+              "RelativeToolTip": "AssignmentDotNet\\Models\\ProductDb.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-04T09:31:58.752Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Category.cs",
-              "DocumentMoniker": "D:\\dotnet\\CodingPrac\\AssignmentDotNet\\AssignmentDotNet\\Models\\Category.cs",
-              "RelativeDocumentMoniker": "AssignmentDotNet\\Models\\Category.cs",
-              "ToolTip": "D:\\dotnet\\CodingPrac\\AssignmentDotNet\\AssignmentDotNet\\Models\\Category.cs",
-              "RelativeToolTip": "AssignmentDotNet\\Models\\Category.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-04T09:03:59.44Z"
+              "WhenOpened": "2024-12-03T15:42:51.111Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -102,36 +107,64 @@
               "RelativeToolTip": "AssignmentDotNet\\Models\\Product.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-04T09:00:19.13Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "GetProduct.cshtml",
-              "DocumentMoniker": "D:\\dotnet\\CodingPrac\\AssignmentDotNet\\AssignmentDotNet\\Views\\Product\\GetProduct.cshtml",
-              "RelativeDocumentMoniker": "AssignmentDotNet\\Views\\Product\\GetProduct.cshtml",
-              "ToolTip": "D:\\dotnet\\CodingPrac\\AssignmentDotNet\\AssignmentDotNet\\Views\\Product\\GetProduct.cshtml",
-              "RelativeToolTip": "AssignmentDotNet\\Views\\Product\\GetProduct.cshtml",
-              "ViewState": "AgIAACEAAAAAAAAAAAAAACsAAABRAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-04T08:21:58.347Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "EditProduct.cshtml",
-              "DocumentMoniker": "D:\\dotnet\\CodingPrac\\AssignmentDotNet\\AssignmentDotNet\\Views\\Product\\EditProduct.cshtml",
-              "RelativeDocumentMoniker": "AssignmentDotNet\\Views\\Product\\EditProduct.cshtml",
-              "ToolTip": "D:\\dotnet\\CodingPrac\\AssignmentDotNet\\AssignmentDotNet\\Views\\Product\\EditProduct.cshtml",
-              "RelativeToolTip": "AssignmentDotNet\\Views\\Product\\EditProduct.cshtml",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-04T07:23:25.013Z",
+              "WhenOpened": "2024-12-04T09:00:19.13Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "D:\\dotnet\\CodingPrac\\AssignmentDotNet\\AssignmentDotNet\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "AssignmentDotNet\\Controllers\\ProductController.cs",
+              "ToolTip": "D:\\dotnet\\CodingPrac\\AssignmentDotNet\\AssignmentDotNet\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "AssignmentDotNet\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAowBEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T05:29:31.392Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "D:\\dotnet\\CodingPrac\\AssignmentDotNet\\AssignmentDotNet\\Service\\ProductService.cs",
+              "RelativeDocumentMoniker": "AssignmentDotNet\\Service\\ProductService.cs",
+              "ToolTip": "D:\\dotnet\\CodingPrac\\AssignmentDotNet\\AssignmentDotNet\\Service\\ProductService.cs",
+              "RelativeToolTip": "AssignmentDotNet\\Service\\ProductService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T11:06:24.787Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IProductService.cs",
+              "DocumentMoniker": "D:\\dotnet\\CodingPrac\\AssignmentDotNet\\AssignmentDotNet\\Service\\IProductService.cs",
+              "RelativeDocumentMoniker": "AssignmentDotNet\\Service\\IProductService.cs",
+              "ToolTip": "D:\\dotnet\\CodingPrac\\AssignmentDotNet\\AssignmentDotNet\\Service\\IProductService.cs",
+              "RelativeToolTip": "AssignmentDotNet\\Service\\IProductService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T11:05:38.04Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CategoryService.cs",
+              "DocumentMoniker": "D:\\dotnet\\CodingPrac\\AssignmentDotNet\\AssignmentDotNet\\Service\\CategoryService.cs",
+              "RelativeDocumentMoniker": "AssignmentDotNet\\Service\\CategoryService.cs",
+              "ToolTip": "D:\\dotnet\\CodingPrac\\AssignmentDotNet\\AssignmentDotNet\\Service\\CategoryService.cs",
+              "RelativeToolTip": "AssignmentDotNet\\Service\\CategoryService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T11:24:08.135Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "PostProduct.cshtml",
               "DocumentMoniker": "D:\\dotnet\\CodingPrac\\AssignmentDotNet\\AssignmentDotNet\\Views\\Product\\PostProduct.cshtml",
               "RelativeDocumentMoniker": "AssignmentDotNet\\Views\\Product\\PostProduct.cshtml",
@@ -139,35 +172,12 @@
               "RelativeToolTip": "AssignmentDotNet\\Views\\Product\\PostProduct.cshtml",
               "ViewState": "AgIAAA8AAAAAAAAAAAAAABwAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-04T07:22:46.279Z"
+              "WhenOpened": "2024-12-04T07:22:46.279Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ProductController.cs",
-              "DocumentMoniker": "D:\\dotnet\\CodingPrac\\AssignmentDotNet\\AssignmentDotNet\\Controllers\\ProductController.cs",
-              "RelativeDocumentMoniker": "AssignmentDotNet\\Controllers\\ProductController.cs",
-              "ToolTip": "D:\\dotnet\\CodingPrac\\AssignmentDotNet\\AssignmentDotNet\\Controllers\\ProductController.cs",
-              "RelativeToolTip": "AssignmentDotNet\\Controllers\\ProductController.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAA5wA4AAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-04T05:29:31.392Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "ProductDb.cs",
-              "DocumentMoniker": "D:\\dotnet\\CodingPrac\\AssignmentDotNet\\AssignmentDotNet\\Models\\ProductDb.cs",
-              "RelativeDocumentMoniker": "AssignmentDotNet\\Models\\ProductDb.cs",
-              "ToolTip": "D:\\dotnet\\CodingPrac\\AssignmentDotNet\\AssignmentDotNet\\Models\\ProductDb.cs",
-              "RelativeToolTip": "AssignmentDotNet\\Models\\ProductDb.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-03T15:42:51.111Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 7,
               "Title": "PostCategory.cshtml",
               "DocumentMoniker": "D:\\dotnet\\CodingPrac\\AssignmentDotNet\\AssignmentDotNet\\Views\\Category\\PostCategory.cshtml",
               "RelativeDocumentMoniker": "AssignmentDotNet\\Views\\Category\\PostCategory.cshtml",
@@ -175,23 +185,103 @@
               "RelativeToolTip": "AssignmentDotNet\\Views\\Category\\PostCategory.cshtml",
               "ViewState": "AgIAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-04T07:41:53.7Z"
+              "WhenOpened": "2024-12-04T07:41:53.7Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
+              "Title": "20241205124935_connect.cs",
+              "DocumentMoniker": "D:\\dotnet\\CodingPrac\\AssignmentDotNet\\AssignmentDotNet\\Migrations\\20241205124935_connect.cs",
+              "RelativeDocumentMoniker": "AssignmentDotNet\\Migrations\\20241205124935_connect.cs",
+              "ToolTip": "D:\\dotnet\\CodingPrac\\AssignmentDotNet\\AssignmentDotNet\\Migrations\\20241205124935_connect.cs",
+              "RelativeToolTip": "AssignmentDotNet\\Migrations\\20241205124935_connect.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T12:49:36.209Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\dotnet\\CodingPrac\\AssignmentDotNet\\AssignmentDotNet\\Program.cs",
+              "RelativeDocumentMoniker": "AssignmentDotNet\\Program.cs",
+              "ToolTip": "D:\\dotnet\\CodingPrac\\AssignmentDotNet\\AssignmentDotNet\\Program.cs",
+              "RelativeToolTip": "AssignmentDotNet\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAsAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T11:09:54.708Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "D:\\dotnet\\CodingPrac\\AssignmentDotNet\\AssignmentDotNet\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "AssignmentDotNet\\Controllers\\CategoryController.cs",
+              "ToolTip": "D:\\dotnet\\CodingPrac\\AssignmentDotNet\\AssignmentDotNet\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "AssignmentDotNet\\Controllers\\CategoryController.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAcwAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T15:39:17.742Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ICategoryService.cs",
+              "DocumentMoniker": "D:\\dotnet\\CodingPrac\\AssignmentDotNet\\AssignmentDotNet\\Service\\ICategoryService.cs",
+              "RelativeDocumentMoniker": "AssignmentDotNet\\Service\\ICategoryService.cs",
+              "ToolTip": "D:\\dotnet\\CodingPrac\\AssignmentDotNet\\AssignmentDotNet\\Service\\ICategoryService.cs",
+              "RelativeToolTip": "AssignmentDotNet\\Service\\ICategoryService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T11:23:23.069Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Category.cs",
+              "DocumentMoniker": "D:\\dotnet\\CodingPrac\\AssignmentDotNet\\AssignmentDotNet\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "AssignmentDotNet\\Models\\Category.cs",
+              "ToolTip": "D:\\dotnet\\CodingPrac\\AssignmentDotNet\\AssignmentDotNet\\Models\\Category.cs",
+              "RelativeToolTip": "AssignmentDotNet\\Models\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T09:03:59.44Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "GetProduct.cshtml",
+              "DocumentMoniker": "D:\\dotnet\\CodingPrac\\AssignmentDotNet\\AssignmentDotNet\\Views\\Product\\GetProduct.cshtml",
+              "RelativeDocumentMoniker": "AssignmentDotNet\\Views\\Product\\GetProduct.cshtml",
+              "ToolTip": "D:\\dotnet\\CodingPrac\\AssignmentDotNet\\AssignmentDotNet\\Views\\Product\\GetProduct.cshtml",
+              "RelativeToolTip": "AssignmentDotNet\\Views\\Product\\GetProduct.cshtml",
+              "ViewState": "AgIAADUAAAAAAAAAAAAowDQAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-04T08:21:58.347Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
               "Title": "GetCategory.cshtml",
               "DocumentMoniker": "D:\\dotnet\\CodingPrac\\AssignmentDotNet\\AssignmentDotNet\\Views\\Category\\GetCategory.cshtml",
               "RelativeDocumentMoniker": "AssignmentDotNet\\Views\\Category\\GetCategory.cshtml",
               "ToolTip": "D:\\dotnet\\CodingPrac\\AssignmentDotNet\\AssignmentDotNet\\Views\\Category\\GetCategory.cshtml",
               "RelativeToolTip": "AssignmentDotNet\\Views\\Category\\GetCategory.cshtml",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAABYAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAADAAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-04T07:17:22.665Z"
+              "WhenOpened": "2024-12-04T07:17:22.665Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 15,
               "Title": "DeleteProduct.cshtml",
               "DocumentMoniker": "D:\\dotnet\\CodingPrac\\AssignmentDotNet\\AssignmentDotNet\\Views\\Product\\DeleteProduct.cshtml",
               "RelativeDocumentMoniker": "AssignmentDotNet\\Views\\Product\\DeleteProduct.cshtml",
@@ -203,7 +293,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 17,
               "Title": "DeleteCategory.cshtml",
               "DocumentMoniker": "D:\\dotnet\\CodingPrac\\AssignmentDotNet\\AssignmentDotNet\\Views\\Category\\DeleteCategory.cshtml",
               "RelativeDocumentMoniker": "AssignmentDotNet\\Views\\Category\\DeleteCategory.cshtml",
@@ -215,7 +305,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 16,
               "Title": "EditCategory.cshtml",
               "DocumentMoniker": "D:\\dotnet\\CodingPrac\\AssignmentDotNet\\AssignmentDotNet\\Views\\Category\\EditCategory.cshtml",
               "RelativeDocumentMoniker": "AssignmentDotNet\\Views\\Category\\EditCategory.cshtml",
@@ -224,18 +314,6 @@
               "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-12-04T07:17:17.513Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "CategoryController.cs",
-              "DocumentMoniker": "D:\\dotnet\\CodingPrac\\AssignmentDotNet\\AssignmentDotNet\\Controllers\\CategoryController.cs",
-              "RelativeDocumentMoniker": "AssignmentDotNet\\Controllers\\CategoryController.cs",
-              "ToolTip": "D:\\dotnet\\CodingPrac\\AssignmentDotNet\\AssignmentDotNet\\Controllers\\CategoryController.cs",
-              "RelativeToolTip": "AssignmentDotNet\\Controllers\\CategoryController.cs",
-              "ViewState": "AgIAACMAAAAAAAAAAAAiwCEAAAAEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-03T15:39:17.742Z"
             }
           ]
         }

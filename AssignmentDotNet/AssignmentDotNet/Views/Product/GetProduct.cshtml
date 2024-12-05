@@ -51,3 +51,27 @@
 }
     </tbody>
 </table>
+
+<div class="pagination">
+    @if (ViewBag.CurrentPage > 1)
+    {
+        <a asp-action="GetProduct" asp-route-page="@(ViewBag.CurrentPage - 1) ">Previous</a>
+    }
+
+    @for (int i = 1; i <= ViewBag.TotalPages; i++)
+    {
+        if (i == ViewBag.CurrentPage)
+        {
+            <strong>@i</strong>
+        }
+        else
+        {
+            <a asp-action="GetProduct" asp-route-page="@i">@i</a>
+        }
+    }
+
+    @if (ViewBag.CurrentPage < ViewBag.TotalPages)
+    {
+        <a asp-action="GetProduct" asp-route-page="@(ViewBag.CurrentPage + 1) ">Next</a>
+    }
+</div>

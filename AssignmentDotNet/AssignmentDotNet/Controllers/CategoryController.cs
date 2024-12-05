@@ -1,50 +1,78 @@
 ﻿using AssignmentDotNet.Models;
+using AssignmentDotNet.Service;
 using Microsoft.AspNetCore.Mvc;
 
 namespace AssignmentDotNet.Controllers
 {
     public class CategoryController : Controller
     {
-        private readonly ProductDb conn;
-        public CategoryController(ProductDb _product)
+        private readonly ICategoryService categoryService;
+
+        public CategoryController(ICategoryService _categoryService)
         {
-            conn = _product;            
+            categoryService = _categoryService;
         }
 
-        public IActionResult GetCategory()
+        public IActionResult GetCategory(int page = 1, int pageSize = 10)
         {
-            List<Category> categories = conn.categories.ToList();
+            int totalCategories;
+            var categories = categoryService.GetCategories(page, pageSize, out totalCategories);
+
+            ViewBag.CurrentPage = page;
+            ViewBag.TotalPages = (int)Math.Ceiling((double)totalCategories / pageSize);
+
             return View(categories);
         }
+
         [HttpGet]
         public IActionResult PostCategory()
         {
             return View();
         }
+
         [HttpPost]
         public IActionResult PostCategory(Category category)
         {
-            conn.categories.Add(category);
-            conn.SaveChanges();
-            return RedirectToAction("GetCategory");
+            try
+            {
+                categoryService.AddCategory(category);
+                return RedirectToAction("GetCategory");
+            }
+            catch (Exception ex)
+            {
+                ModelState.AddModelError(string.Empty, ex.Message);
+                return View(category);
+            }
         }
+
         public IActionResult EditCategory(int id)
         {
-            Category cat = conn.categories.Find(id);
-            return View(cat);
+            var category = categoryService.GetCategoryById(id);
+            if (category == null)
+            {
+                return NotFound();
+            }
+            return View(category);
         }
+
         [HttpPost]
         public IActionResult EditCategory(Category category)
         {
-            conn.categories.Update(category);
-            conn.SaveChanges();
-            return RedirectToAction("GetCategory");
+            try
+            {
+                categoryService.UpdateCategory(category);
+                return RedirectToAction("GetCategory");
+            }
+            catch (Exception ex)
+            {
+                ModelState.AddModelError(string.Empty, ex.Message);
+                return View(category);
+            }
         }
+
         public IActionResult DeleteCategory(int id)
         {
-            Category cat = conn.categories.Find(id);
-            conn.categories.Remove(cat);
-            conn.SaveChanges();
+            categoryService.DeleteCategory(id);
             return RedirectToAction("GetCategory");
         }
     }
